@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs?username=ramkumar-kollimalayan&layout=compact&show_icons=true" alt="ramkumar-kollimalayan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true" alt="ramkumar-kollimalayan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight" alt="ramkumar-kollimalayan" /></p>
 
-<p><img align="center" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight" alt="ramkumar-kollimalayan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-kollimalayan&" alt="ramkumar-kollimalayan" alt="ramkumar-kollimalayan" /></p>
