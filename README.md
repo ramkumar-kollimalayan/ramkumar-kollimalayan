@@ -61,7 +61,7 @@ Focused on clean architecture and best practices
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramkumar-kollimalayan&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-kollimalayan&" />
 </p>
 
 ---
