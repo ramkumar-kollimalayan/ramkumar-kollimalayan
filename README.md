@@ -53,15 +53,22 @@ Focused on clean architecture and best practices
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api
+  ?username=ramkumar-kollimalayan
+  &show_icons=true
+  &theme=tokyonight
+  &count_private=true
+  &include_all_commits=true"
+  &cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs?username=ramkumar-kollimalayan&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumar-kollimalayan&" />
+  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs
+  ?username=ramkumar-kollimalayan
+  &layout=compact
+  &theme=tokyonight
+  &count_private=true"
+  &cache_seconds=1800" />
 </p>
 
 ---
