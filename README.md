@@ -51,25 +51,22 @@ Focused on clean architecture and best practices
 ---
 
 ## 📊 GitHub Stats
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img width="100%" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img width="100%" src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs?username=ramkumar-kollimalayan&layout=compact&theme=tokyonight&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramkumar-kollimalayan&theme=tokyo-night" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api
-  ?username=ramkumar-kollimalayan
-  &show_icons=true
-  &theme=tokyonight
-  &count_private=true
-  &include_all_commits=true"
-  &cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs
-  ?username=ramkumar-kollimalayan
-  &layout=compact
-  &theme=tokyonight
-  &count_private=true"
-  &cache_seconds=1800" />
-</p>
 
 ---
 
