@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/mudhawkram">LinkedIn</a> ·
+<a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a> ·
 <a href="https://github.com/ramkumar-kollimalayan">GitHub</a> ·
-<a href="https://dev.to/mudhawkram">Dev.to</a>
+<a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>
 </p>
 
 ---
