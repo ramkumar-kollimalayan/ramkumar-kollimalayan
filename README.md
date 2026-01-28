@@ -1,8 +1,5 @@
-<h1 align="center">Hey there!👋 I'm Ramkumar</h1>
-<h3 align="center">
-Full Stack Developer | Angular | ASP.NET MVC / Core | C# | SQL Server
-</h3>
-
+<h1 align="center">Hi 👋, I'm Ramkumar Kollimalayan</h1>
+<h3 align="center">Senior Full Stack Developer · Angular · ASP.NET Core · C# · SQL Server</h3>
 <p align="center">
 📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com
 </p>
@@ -15,49 +12,103 @@ Full Stack Developer | Angular | ASP.NET MVC / Core | C# | SQL Server
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Building and enhancing **enterprise web applications** using Angular & ASP.NET MVC/Core  
-- 🌱 Learning **Advanced Angular, Clean Architecture, and API performance tuning**  
-- 👯 Open to collaborating on **full-stack projects (Angular + .NET + REST APIs)**  
-- 🤝 Interested in **system design, scalability, and performance optimization**  
-- ⚡ Fun fact: I love **solo travel, bike rides, and building things from scratch** 🏍️  
+I’m a **Senior Full Stack Developer** with hands-on experience building and maintaining **enterprise-scale web applications** using **Angular and ASP.NET Core**.
+
+I focus on:
+- clean architecture & maintainable codebases
+- performance-aware API and UI design
+- collaborating across product, QA, and backend teams
+
+Most of my work lives in **organization and private repositories**, supporting real-world production systems.
+
+---
+
+## 🧩 What I Work On (Impact-Focused)
+
+- Designing and implementing **scalable Angular modules** used across multiple business workflows  
+- Building **RESTful APIs** in ASP.NET Core with clean separation of concerns  
+- Refactoring legacy code to **improve performance, readability, and testability**  
+- Supporting **data-heavy features** using SQL Server and optimized EF Core queries  
+- Actively participating in **code reviews, PR discussions, and architectural decisions**
 
 ---
 
 ## 🛠 Tech Stack
+> 💡 Applied across enterprise platforms supporting 300+ users in production environments.
 
-**Frontend**  
-Angular · TypeScript · JavaScript · HTML · CSS · Bootstrap · Sass  
+### Frontend
+- Angular 17, TypeScript, JavaScript
+- HTML5, SCSS, Bootstrap
+- PrimeNG, Chart.js
+- Responsive & performance-optimized UI development
 
-**Backend**  
-ASP.NET MVC · ASP.NET Core · C# · REST APIs  
+### Backend
+- ASP.NET Core (.NET 8.0), ASP.NET MVC
+- C#, RESTful API design
+- Entity Framework Core, LINQ
+- ABP Framework (Modular architecture)
+- Microservices architecture
 
-**Database & Tools**  
-SQL Server · Git · Postman · Azure · Figma  
+### Security & Authentication
+- JWT authentication (HttpOnly cookies)
+- Azure AD SSO, OAuth
+- Role-based authorization & permission management
+
+### Database
+- Microsoft SQL Server
+- Database design & normalization
+- Stored procedures
+- Query optimization & performance tuning
+
+### DevOps & Tools
+- Git, GitHub, Azure DevOps
+- Visual Studio, VS Code
+- Postman, Swagger / OpenAPI
+- IIS, Azure
+
+### CMS & Web Platforms
+- WordPress, Elementor, WooCommerce
+- Custom PHP modules & integrations
+
+### Practices
+- Clean Architecture & modular design
+- Code reviews & team mentoring
+- Agile / Scrum development
+- Performance optimization & refactoring
 
 ---
 
-## 📌 Featured Work
+## 📌 Selected Work & Contributions
 
-🔹 **Enterprise Web Application (Angular + ASP.NET MVC)**  
-Building scalable business features, REST APIs, and clean UI components  
-👉 https://github.com/Geoservedmcc/geo-stem
+### 🔹 Enterprise Web Platforms (Angular + ASP.NET Core)
+- Developed and maintained business-critical features
+- Implemented reusable UI components and shared services
+- Contributed to API design, validation, and performance tuning
 
-🔹 **Full Stack Experiments & Learning Projects**  
-Focused on clean architecture and best practices  
-👉 https://github.com/ramkumar-kollimalayan
-
----
-
-## 📊 GitHub Activity
-
-> 📌 Most of my work is in **enterprise & organization repositories**.  
-> The activity graph below reflects my **consistent development work** over time.
+🔒 Private organization repository: https://github.com/Geoservedmcc/geo-stem
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 REST API Response Code Helper (Open Source Utility)
+A lightweight helper library to standardize HTTP response codes and API responses across ASP.NET Core applications.
+
+**Why it matters:**
+- Encourages consistent API contracts
+- Reduces boilerplate response handling
+- Improves readability and maintainability of controllers
+
+🔗 https://github.com/ramkumar-kollimalayan/rest-api-response-code-helper
+
+---
+
+## 📊 GitHub Activity (Context Matters)
+
+> 📌 Most of my contributions are in **private and organization repositories**.  
+> The graph below reflects **consistent enterprise development activity**, including  
+> commits, pull requests, and code reviews.
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -69,11 +120,10 @@ Focused on clean architecture and best practices
   </tr>
 </table>
 
-
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/mudhawkram  
-- ✍️ Dev.to: https://dev.to/mudhawkram  
-- 📧 Email: ramkumar.kollimalayan@outlook.com  
+- 💼 LinkedIn: https://linkedin.com/in/mudhawkram
+- ✍️ Dev.to: https://dev.to/mudhawkram
+- 📧 Email: ramkumar.kollimalayan@outlook.com
