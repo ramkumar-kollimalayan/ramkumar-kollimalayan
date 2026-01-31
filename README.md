@@ -124,6 +124,6 @@ A lightweight helper library to standardize HTTP response codes and API response
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/mudhawkram
-- ✍️ Dev.to: https://dev.to/mudhawkram
+- 💼 LinkedIn: https://linkedin.com/in/ramkumar-kollimalayan
+- ✍️ Dev.to: https://dev.to/ramkumar-kollimalayan
 - 📧 Email: ramkumar.kollimalayan@outlook.com
