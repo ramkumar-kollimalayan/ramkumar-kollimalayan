@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ramkumar Kollimalayan</h1>
-<h3 align="center">Senior Full Stack Developer · Angular · ASP.NET Core · C# · SQL Server</h3>
+<h3 align="center">Senior Full Stack Engineer building scalable Angular & ASP.NET Core systems</h3>
+
 <p align="center">
 📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a> ·
-<a href="https://github.com/ramkumar-kollimalayan">GitHub</a> ·
 <a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>
 </p>
 
@@ -14,100 +14,71 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Full Stack Developer** with hands-on experience building and maintaining **enterprise-scale web applications** using **Angular and ASP.NET Core**.
+I’m a Senior Full Stack Engineer with hands-on experience designing and maintaining enterprise-scale web applications using Angular and ASP.NET Core.
 
-I focus on:
-- clean architecture & maintainable codebases
-- performance-aware API and UI design
-- collaborating across product, QA, and backend teams
+My focus areas:
 
-Most of my work lives in **organization and private repositories**, supporting real-world production systems.
+- Clean architecture & modular system design  
+- High-performance REST APIs  
+- Data-heavy, scalable UI workflows  
+- Refactoring legacy systems for performance and maintainability  
 
----
-
-## 🧩 What I Work On (Impact-Focused)
-
-- Designing and implementing **scalable Angular modules** used across multiple business workflows  
-- Building **RESTful APIs** in ASP.NET Core with clean separation of concerns  
-- Refactoring legacy code to **improve performance, readability, and testability**  
-- Supporting **data-heavy features** using SQL Server and optimized EF Core queries  
-- Actively participating in **code reviews, PR discussions, and architectural decisions**
+Most of my contributions live in private and organization repositories, supporting real-world production systems.
 
 ---
 
-## 🛠 Tech Stack
-> 💡 Applied across enterprise platforms supporting 300+ users in production environments.
+## 🧩 What I Work On
 
-### Frontend
-- Angular 17, TypeScript, JavaScript
-- HTML5, SCSS, Bootstrap
-- PrimeNG, Chart.js
-- Responsive & performance-optimized UI development
-
-### Backend
-- ASP.NET Core (.NET 8.0), ASP.NET MVC
-- C#, RESTful API design
-- Entity Framework Core, LINQ
-- ABP Framework (Modular architecture)
-- Microservices architecture
-
-### Security & Authentication
-- JWT authentication (HttpOnly cookies)
-- Azure AD SSO, OAuth
-- Role-based authorization & permission management
-
-### Database
-- Microsoft SQL Server
-- Database design & normalization
-- Stored procedures
-- Query optimization & performance tuning
-
-### DevOps & Tools
-- Git, GitHub, Azure DevOps
-- Visual Studio, VS Code
-- Postman, Swagger / OpenAPI
-- IIS, Azure
-
-### CMS & Web Platforms
-- WordPress, Elementor, WooCommerce
-- Custom PHP modules & integrations
-
-### Practices
-- Clean Architecture & modular design
-- Code reviews & team mentoring
-- Agile / Scrum development
-- Performance optimization & refactoring
+- Designing scalable Angular modules across multiple business workflows  
+- Building RESTful APIs in ASP.NET Core with clear separation of concerns  
+- Optimizing EF Core queries and SQL Server performance  
+- Implementing authentication using JWT, Azure AD SSO, and role-based authorization  
+- Contributing to architecture discussions, code reviews, and system improvements  
 
 ---
 
-## 📌 Selected Work & Contributions
+## 🛠 Core Stack
 
-### 🔹 Enterprise Web Platforms (Angular + ASP.NET Core)
-- Developed and maintained business-critical features
-- Implemented reusable UI components and shared services
-- Contributed to API design, validation, and performance tuning
+**Frontend**
+- Angular 17, TypeScript  
+- PrimeNG, Chart.js  
+- Performance-optimized and responsive UI design  
 
-🔒 Private organization repository: https://github.com/Geoservedmcc/geo-stem
+**Backend**
+- ASP.NET Core (.NET 8), C#  
+- Entity Framework Core, LINQ  
+- REST API design  
+- ABP Framework  
+- Modular / Microservices-based architecture  
+
+**Database**
+- Microsoft SQL Server  
+- Query optimization & schema design  
+
+**DevOps & Tools**
+- Git, GitHub, Azure DevOps  
+- Swagger / OpenAPI  
+- IIS, Azure  
 
 ---
 
-### 🔹 REST API Response Code Helper (Open Source Utility)
-A lightweight helper library to standardize HTTP response codes and API responses across ASP.NET Core applications.
+## 📌 Featured Project
 
-**Why it matters:**
-- Encourages consistent API contracts
-- Reduces boilerplate response handling
-- Improves readability and maintainability of controllers
+### 🔹 REST API Response Code Helper
+A lightweight utility to standardize HTTP response codes and API responses across ASP.NET Core applications.
+
+**Highlights:**
+- Promotes consistent API contracts  
+- Reduces controller boilerplate  
+- Improves readability and maintainability  
 
 🔗 https://github.com/ramkumar-kollimalayan/rest-api-response-code-helper
 
 ---
 
-## 📊 GitHub Activity (Context Matters)
+## 📊 GitHub Activity
 
-> 📌 Most of my contributions are in **private and organization repositories**.  
-> The graph below reflects **consistent enterprise development activity**, including  
-> commits, pull requests, and code reviews.
+> Most activity reflects enterprise development work across private and organization repositories.
 
 <table width="100%">
   <tr>
@@ -122,8 +93,8 @@ A lightweight helper library to standardize HTTP response codes and API response
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/ramkumar-kollimalayan
-- ✍️ Dev.to: https://dev.to/ramkumar-kollimalayan
+- 💼 LinkedIn: https://linkedin.com/in/ramkumar-kollimalayan  
+- ✍️ Dev.to: https://dev.to/ramkumar-kollimalayan  
 - 📧 Email: ramkumar.kollimalayan@outlook.com
