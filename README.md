@@ -1,100 +1,93 @@
 <h1 align="center">Hi 👋, I'm Ramkumar Kollimalayan</h1>
-<h3 align="center">Senior Full Stack Engineer building scalable Angular & ASP.NET Core systems</h3>
-
+<h3 align="center">Senior Full Stack Engineer | Angular · ASP.NET Core · Enterprise Systems</h3>
 <p align="center">
 📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com
 </p>
-
 <p align="center">
 <a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a> ·
+<a href="https://github.com/ramkumar-kollimalayan">GitHub</a> ·
 <a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+I'm a Senior Full Stack Engineer with 8+ years building enterprise-scale Angular and ASP.NET Core applications — including a bunker fuel procurement platform serving 200+ concurrent users across 78 global ports.
 
-I’m a Senior Full Stack Engineer with hands-on experience designing and maintaining enterprise-scale web applications using Angular and ASP.NET Core.
+**Recent highlights:**
+- Led full-stack modernization: Angular v10→v18, .NET Core 3.1→.NET 8, ABP v3.x→v8.x
+- Architected custom JWT auth with HttpOnly cookies for AWS compatibility
+- Implemented Azure AD SSO with continuous token validation and auto user sync
+- Improved system performance by 30% through database query optimization
 
-My focus areas:
-
-- Clean architecture & modular system design  
-- High-performance REST APIs  
-- Data-heavy, scalable UI workflows  
-- Refactoring legacy systems for performance and maintainability  
-
-Most of my contributions live in private and organization repositories, supporting real-world production systems.
+Most of my work lives in private enterprise repositories supporting production systems.
 
 ---
 
-## 🧩 What I Work On
-
-- Designing scalable Angular modules across multiple business workflows  
-- Building RESTful APIs in ASP.NET Core with clear separation of concerns  
-- Optimizing EF Core queries and SQL Server performance  
-- Implementing authentication using JWT, Azure AD SSO, and role-based authorization  
-- Contributing to architecture discussions, code reviews, and system improvements  
+## 🧩 What I Build
+- **Modular Angular architectures** (v10–v18) that reduce tech debt and accelerate feature delivery
+- **High-performance REST APIs** with optimized EF Core queries, OData support, and Swagger docs
+- **Enterprise auth systems** using JWT, OAuth 2.0, Azure AD SSO, and role-based authorization for 200+ users
+- **Refactored legacy codebases** — upgraded major frameworks with zero downtime, reduced manual workflows by 45%
 
 ---
 
 ## 🛠 Core Stack
 
-**Frontend**
-- Angular 17, TypeScript  
-- PrimeNG, Chart.js  
-- Performance-optimized and responsive UI design  
+**Frontend:** Angular (v10–v18) **·** TypeScript **·** HTML5 **·** CSS3 **·** Bootstrap **·** PrimeNG **·** RxJS **·** Chart.js  
+**Backend:** ASP.NET Core (.NET 8) **·** C# **·** Entity Framework Core **·** LINQ **·** Web API **·** RESTful APIs **·** ABP Framework  
+**Database:** SQL Server **·** Query optimization **·** Stored Procedures **·** Database Design **·** T-SQL  
+**Auth & Security:** JWT Authentication **·** OAuth 2.0 **·** Azure AD SSO **·** OpenIddict **·** Role-based access control  
+**DevOps & Tools:** Git **·** Azure DevOps **·** Visual Studio **·** VS Code **·** Postman **·** Swagger/OpenAPI **·** IIS  
+**Development Practices:** Agile/Scrum **·** API Integration **·** Code Reviews **·** Unit Testing **·** Performance Optimization  
 
-**Backend**
-- ASP.NET Core (.NET 8), C#  
-- Entity Framework Core, LINQ  
-- REST API design  
-- ABP Framework  
-- Modular / Microservices-based architecture  
-
-**Database**
-- Microsoft SQL Server  
-- Query optimization & schema design  
-
-**DevOps & Tools**
-- Git, GitHub, Azure DevOps  
-- Swagger / OpenAPI  
-- IIS, Azure  
+**Additional:** PHP **·** WordPress **·** WooCommerce **·** Elementor **·** jQuery **·** Figma **·** Adobe Photoshop
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Project: REST API Response Code Helper
 
-### 🔹 REST API Response Code Helper
-A lightweight utility to standardize HTTP response codes and API responses across ASP.NET Core applications.
+A web-based utility that helps developers choose correct HTTP status codes for REST APIs based on real-world scenarios.
 
-**Highlights:**
-- Promotes consistent API contracts  
-- Reduces controller boilerplate  
-- Improves readability and maintainability  
+**Why it exists:** Teams struggle with API design decisions like 400 vs 422, 401 vs 403. This tool provides clear, scenario-based guidance.
 
-🔗 https://github.com/ramkumar-kollimalayan/rest-api-response-code-helper
+**Key benefits:**
+- ✅ Interactive decision tree for HTTP status codes
+- ✅ Real-world scenario mapping
+- ✅ Improves API consistency across teams
+
+🔗 [View on GitHub](https://github.com/ramkumar-kollimalayan/rest-api-response-code-helper)
+
+---
+
+## ✍️ Technical Writing
+
+I write about Angular, ASP.NET Core, and enterprise system design:
+
+- 📝 [Choosing the Right HTTP Status Code in REST APIs](https://dev.to/ramkumar-kollimalayan/choosing-the-right-http-status-code-in-rest-apis-a-practical-guide) (Feb 2026)
+- 📝 [VS Code Extensions That Make You Unstoppable](https://dev.to/ramkumar-kollimalayan/vs-code-is-powerful-but-with-these-extensions) (Nov 2024)
+
+[Read more on Dev.to →](https://dev.to/ramkumar-kollimalayan)
+
+---
+
+## 🌱 Currently
+- Maintaining enterprise Angular applications serving 200+ users across 78 ports
+- Exploring Azure certification (AZ-204)
+- Optimizing EF Core queries and SQL Server performance
+- Writing about real-world full-stack challenges
 
 ---
 
 ## 📊 GitHub Activity
 
-> Most activity reflects enterprise development work across private and organization repositories.
+> My primary work lives in private enterprise repositories at ProdEngines. Public contributions include tooling, experiments, and open-source utilities.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img width="100%" src="https://github-readme-stats-two-gilt-28.vercel.app/api/top-langs?username=ramkumar-kollimalayan&layout=compact&theme=tokyonight&count_private=true" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ramkumar-kollimalayan&theme=tokyo-night" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+</p>
 
 ---
 
 ## 🤝 Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/ramkumar-kollimalayan  
-- ✍️ Dev.to: https://dev.to/ramkumar-kollimalayan  
-- 📧 Email: ramkumar.kollimalayan@outlook.com
+💼 [LinkedIn](https://linkedin.com/in/ramkumar-kollimalayan) · ✍️ [Dev.to](https://dev.to/ramkumar-kollimalayan) · 📧 ramkumar.kollimalayan@outlook.com
