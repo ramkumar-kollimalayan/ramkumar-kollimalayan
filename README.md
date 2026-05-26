@@ -1,18 +1,32 @@
 <h1 align="center">Hi 👋, I'm Ramkumar Kollimalayan</h1>
-<h3 align="center">Senior Full Stack Engineer | Angular · ASP.NET Core · Enterprise Systems</h3>
+<h3 align="center">Senior Full Stack Engineer specializing in Angular, ASP.NET Core, and Enterprise Platform Modernization</h3>
 <p align="center">
-📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com
+<a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a>&nbsp; ·&nbsp;
+<a href="https://github.com/ramkumar-kollimalayan">GitHub</a>&nbsp; ·&nbsp;
+<a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>&nbsp; ·&nbsp;
+<span>📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com</span>
 </p>
 <p align="center">
-<a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a> ·
-<a href="https://github.com/ramkumar-kollimalayan">GitHub</a> ·
-<a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>
+  <img src="https://img.shields.io/badge/Angular-18-red?logo=angular" />
+  <img src="https://img.shields.io/badge/.NET-8-purple?logo=dotnet" />
+  <img src="https://img.shields.io/badge/Azure-DevOps-blue?logo=azuredevops" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Database-red?logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/ABP-Framework-orange" />
 </p>
 
 ---
 
+## 🚀 Career Snapshot
+
+- 8+ years of software engineering experience
+- Specialized in Angular, ASP.NET Core, and SQL Server
+- Modernized enterprise platforms used across 78 global ports
+- Delivered systems supporting 200+ concurrent users
+- Led major framework migrations with zero downtime
+- Published technical articles on Dev.to covering Angular, ASP.NET Core, and developer productivity.
+
 ## 👨‍💻 About Me
-I'm a Senior Full Stack Engineer with 8+ years building enterprise-scale Angular and ASP.NET Core applications — including a bunker fuel procurement platform serving 200+ concurrent users across 78 global ports.
+Senior Full Stack Engineer with 8+ years of experience building and modernizing enterprise-scale Angular and ASP.NET Core platforms, including systems serving 200+ users across 78 global ports.
 
 **Recent highlights:**
 - Led full-stack modernization: Angular v10→v18, .NET Core 3.1→.NET 8, ABP v3.x→v8.x
@@ -40,7 +54,6 @@ Most of my work lives in private enterprise repositories supporting production s
 **Auth & Security:** JWT Authentication **·** OAuth 2.0 **·** Azure AD SSO **·** OpenIddict **·** Role-based access control  
 **DevOps & Tools:** Git **·** Azure DevOps **·** Visual Studio **·** VS Code **·** Postman **·** Swagger/OpenAPI **·** IIS  
 **Development Practices:** Agile/Scrum **·** API Integration **·** Code Reviews **·** Unit Testing **·** Performance Optimization  
-
 **Additional:** PHP **·** WordPress **·** WooCommerce **·** Elementor **·** jQuery **·** Figma **·** Adobe Photoshop
 
 ---
@@ -48,6 +61,8 @@ Most of my work lives in private enterprise repositories supporting production s
 ## 📌 Featured Project: REST API Response Code Helper
 
 A web-based utility that helps developers choose correct HTTP status codes for REST APIs based on real-world scenarios.
+
+**Tech Stack:** Angular · TypeScript · REST API Design
 
 **Why it exists:** Teams struggle with API design decisions like 400 vs 422, 401 vs 403. This tool provides clear, scenario-based guidance.
 
@@ -81,13 +96,11 @@ I write about Angular, ASP.NET Core, and enterprise system design:
 
 ## 📊 GitHub Activity
 
-> My primary work lives in private enterprise repositories at ProdEngines. Public contributions include tooling, experiments, and open-source utilities.
+> Most of my professional contributions are in private enterprise repositories. Public activity here represents personal projects, technical experiments, tooling, and articles.
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=ramkumar-kollimalayan&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=ramkumar-kollimalayan&theme=tokyonight"/>
 </div>
 
 ---
