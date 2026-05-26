@@ -83,9 +83,12 @@ I write about Angular, ASP.NET Core, and enterprise system design:
 
 > My primary work lives in private enterprise repositories at ProdEngines. Public contributions include tooling, experiments, and open-source utilities.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-two-gilt-28.vercel.app/api?username=ramkumar-kollimalayan&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ramkumar-kollimalayan&theme=tokyonight"/>
+
+</div>
 
 ---
 
