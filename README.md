@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramkumar Kollimalayan</h1>
 <h3 align="center">Senior Full Stack Engineer specializing in Angular, ASP.NET Core, and Enterprise Platform Modernization</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ramkumar-kollimalayan">LinkedIn</a>&nbsp; ·&nbsp;
-<a href="https://github.com/ramkumar-kollimalayan">GitHub</a>&nbsp; ·&nbsp;
-<a href="https://dev.to/ramkumar-kollimalayan">Dev.to</a>&nbsp; ·&nbsp;
+<a href="https://linkedin.com/in/ramkumar-kollimalayan" target="_blank">LinkedIn</a>&nbsp; ·&nbsp;
+<a href="https://github.com/ramkumar-kollimalayan" target="_blank">GitHub</a>&nbsp; ·&nbsp;
+<a href="https://ramkumar-kollimalayan.netlify.app/" target="_blank">Portfolio</a>&nbsp; ·&nbsp;
+<a href="https://dev.to/ramkumar-kollimalayan" target="_blank">Dev.to</a>&nbsp; ·&nbsp;
 <span>📍 Coimbatore, India · 📫 ramkumar.kollimalayan@outlook.com</span>
 </p>
 <p align="center">
